@@ -20,7 +20,7 @@ set.seed(410)
 
 # --------------------------- Data Import --------------------------
 # Read the Excel file into R
-lotwize <- read_excel("lotwize_case.xlsx")
+lotwize <- read_excel("lotwize_case_copy.xlsx")
 
 # --------------------------- Initial Exploration ------------------
 # Get the dimensions of the dataset
